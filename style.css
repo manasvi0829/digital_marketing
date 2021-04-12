@@ -30,7 +30,6 @@
 				background:white;
 				border-radius:20px;
 				margin:2px;
-				width:145px;
 			}
 			#ContactUs .d1 span .t3{
 				background:#e7e6e1;
@@ -41,7 +40,7 @@
 				margin:2px;
 			}
 			#ContactUs  .f1{
-				//padding:10px;
+				padding:10px;
 				height:auto;
 				text-align:center;
 				-moz-box-shadow: 0 0 5px 2px #5b8a72;
