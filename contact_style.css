@@ -1,0 +1,72 @@
+#ContactUs .d1, #ContactUs .d2 {
+				display:inline;
+				float:left;
+				width:500px;
+				height:auto;
+				margin-left:100px;
+				margin-top:10px;
+			}
+			#ContactUs #heading4{
+				text-align:center;
+				color:#c64756;
+				font-family:"Arial", serif;
+				font-size:17px;
+			}
+			#ContactUs #heading1{
+				text-align:center;
+				font-size:30px;
+			}
+			#ContactUs #para1{
+				text-align:center;
+				font-size:20px;
+			}
+			#ContactUs  #heading3{
+				font-size:30px;
+				text-shadow:2px right black;
+				font-family: 'New Tegomin', serif;
+			}
+			#ContactUs .d1 span .t1, #ContactUs .d1 span .t2{
+				height:40px;
+				background:white;
+				border-radius:20px;
+				margin:2px;
+				width:145px;
+			}
+			#ContactUs .d1 span .t3{
+				background:#e7e6e1;
+				margin-left:90px;
+				width:260px;
+				height:30px;
+				border-radius:15px;
+				margin:2px;
+			}
+			#ContactUs  .f1{
+				//padding:10px;
+				height:auto;
+				text-align:center;
+				-moz-box-shadow: 0 0 5px 2px #5b8a72;
+				-webkit-box-shadow: 0 0 5px 2px #5b8a72;
+				box-shadow: 0 0 5px 2px #5b8a72;
+				//background:linear-gradient(15deg, #a2b29f, #0000);
+				background:white;
+			}
+			@media(min-width:767px){
+				#ContactUs .d1, #ContactUs .d2 {
+					margin-left:250px;
+					margin-top:50px;
+				}
+			}
+			@media(min-width:768px) and (max-width:1023px){
+				#ContactUs .d1, #ContactUs .d2 {
+					margin-left:270px;
+					margin-top:120px;
+				}
+			}
+			@media(min-width:1024px) and (max-width:1440px){
+				#ContactUs .d1, #ContactUs .d2 {
+					display:inline;
+					float:left;
+					margin-left:100px;
+					margin-top:10px;
+				}
+			}
